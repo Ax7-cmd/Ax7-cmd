@@ -60,7 +60,3 @@ Sometimes I become :
 </p>
 
 ---
-
-### 🔥 My Blockchain History :
-
-- [2019-10] *Deploy Hyperledger [Iroha](https://www.hyperledger.org/projects/iroha)* - this is first time i deploy private blockchain, even i dont know detail about blockchain (i just know blockchain is decentralized, public ledger that exists across a network)
